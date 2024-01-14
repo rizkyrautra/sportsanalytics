@@ -19,7 +19,7 @@ Dataset
   * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U15%202022%20-%20TOP%20SKOR.csv">Top Skor U15</a>
   * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20KLASEMEN.csv">Klasemen U20</a>
   * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20PERTANDINGAN.csv">Pertandingan U20</a>
-  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20TOP%20SKOR.csv"Top Skor U20</a>
+  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20TOP%20SKOR.csv">Top Skor U20</a>
 
 **Piala Afrika**
 * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Piala%20Afrika%201962-2023%20-%20Pemain%20Bersaudara.csv">Daftar Pemain Bersaudara di Piala Afrika 1962-2023</a>
