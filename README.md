@@ -19,12 +19,12 @@ Dataset
   * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U15%202022%20-%20TOP%20SKOR.csv">Top Skor U15</a>
   * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20KLASEMEN.csv">Klasemen U20</a>
   * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20PERTANDINGAN.csv">Pertandingan U20</a>
-  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20TOP%20SKOR.csv">Top Skor U20</a>
+  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20TOP%20SKOR.csv"Top Skor U20</a>
 
 **Piala Afrika**
 * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Piala%20Afrika%201962-2023%20-%20Pemain%20Bersaudara.csv">Daftar Pemain Bersaudara di Piala Afrika 1962-2023</a>
 
 **AFC Champions League**
-* Daftar Juara AFC Champions League 1967-2022
+* <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/AFC%20Champions%20League%201967-2022%20-%20Daftar%20Juara%20dan%20Runner-up.csv">Daftar Juara AFC Champions League 1967-2022</a> 
 
   Note: Asian Champion Club Tournament (1967-1971), Asian Club Championship (1985-2001/2002), Asian Champions League (2001/2002 - sekarang)
