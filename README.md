@@ -6,6 +6,8 @@ Dataset
 
 * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Pekan%20Olahraga%20Nasional%20-%20Daftar%20Juara%201948-2021.csv">Daftar Juara PON 1948-2021</a>
 
+  Note: PON Edisi VI pada 1965 gagal karena terjadi peristiwa gerakan 30 September 1965
+
 **Liga Persebaya**
 
 * Liga Persebaya 2022
