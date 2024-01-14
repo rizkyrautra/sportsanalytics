@@ -25,4 +25,4 @@ Dataset
 **AFC Champions League**
 * Daftar Juara AFC Champions League 1967-2022
 
-  Note: Asian Champion Club Tournament (1967-71), Asian Club Championship (1985-2001/02), Asian Champions League (2001/02 - sekarang)
+  Note: Asian Champion Club Tournament (1967-1971), Asian Club Championship (1985-2001/2002), Asian Champions League (2001/2002 - sekarang)
