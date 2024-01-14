@@ -27,4 +27,4 @@ Dataset
 * Liga 1 Indonesia 2017
 
 **Piala Afrika**
-* Data Pemain Bersaudara di Piala Afrika 1962-2023
+* <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Pemain%20Bersaudara%20-%20PIALA%20AFRIKA.csv">Data Pemain Bersaudara di Piala Afrika 1962-2023</a>
