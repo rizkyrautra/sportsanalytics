@@ -1,4 +1,4 @@
-# **Football Analytics**
+# **Sports Analytics**
 
 Dataset
 
