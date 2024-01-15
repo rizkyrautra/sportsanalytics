@@ -29,4 +29,4 @@ Dataset
 **AFC Champions League**
 * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/AFC%20Champions%20League%201967-2022%20-%20Daftar%20Juara%20dan%20Runner-up.csv">Daftar Juara AFC Champions League 1967-2022</a> 
 
-  <i>Note: Asian Champion Club Tournament (1967-1971), Asian Club Championship (1985-2001/2002), Asian Champions League (2001/2002 - sekarang)</i>
+  <i>Note: Asian Champion Club Tournament (1967-1971), Asian Club Championship (1985-2001/2002), Asian Champions League (2001/2002-sekarang)</i>
