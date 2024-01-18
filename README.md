@@ -8,6 +8,10 @@ Dataset
 
   <i>Note: PON Edisi VI pada 1965 gagal karena terjadi peristiwa gerakan 30 September 1965</i>
 
+**Olimpiade**
+
+* <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Daftar%20Atlet%20Indonesia%20Peraih%20Medali%20Olimpiade%201988-2020.csv">Daftar Peraih Medali Olimpiade 1988-2020</a>
+
 <hr>
 
 **Liga Persebaya**
