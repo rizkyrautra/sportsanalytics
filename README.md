@@ -26,7 +26,9 @@ Dataset
   * Standings Table
   * Match Results
 * 2020 Shopee Liga 1
+  
   <i>Note: 2019 Competition was suspended due to the COVID-19 pandemic</i>
+  
 * 2021-2022 BRI Liga 1
   * Standings Table
   * Match Results
