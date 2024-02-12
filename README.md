@@ -4,15 +4,39 @@ Dataset
 
 **Pekan Olahraga Nasional (PON)**
 
-* <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Pekan%20Olahraga%20Nasional%20-%20Daftar%20Juara%201948-2021.csv">Daftar Juara PON 1948-2021</a>
+* <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Pekan%20Olahraga%20Nasional%20-%20Daftar%20Juara%201948-2021.csv">List of PON Champions 1948-2021</a>
 
   <i>Note: PON Edisi VI pada 1965 gagal karena terjadi peristiwa gerakan 30 September 1965</i>
 
 **Olimpiade**
 
-* <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Daftar%20Atlet%20Indonesia%20Peraih%20Medali%20Olimpiade%201988-2020.csv">Daftar Atlet Indonesia Peraih Medali Olimpiade 1988-2020</a>
+* <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Daftar%20Atlet%20Indonesia%20Peraih%20Medali%20Olimpiade%201988-2020.csv">List of Indonesian Athletes Who Won Olympic Medals 1988-2020</a>
 
 <hr>
+
+**Liga 1 Indonesia**
+
+* 2017 GOJEK Traveloka Liga 1
+  * Standings Table
+  * Match Results
+* 2018 GOJEK Liga 1
+  * Standings Table
+  * Match Results
+* 2019 Shopee Liga 1
+  * Standings Table
+  * Match Results
+* 2020 Shopee Liga 1
+  * Standings Table
+  * Match Results
+* 2021-2022 BRI Liga 1
+  * Standings Table
+  * Match Results
+* 2022-2023 BRI Liga 1
+  * Standings Table
+  * Match Results
+* 2023-2024 BRI Liga 1
+
+  <i>Note: 2019 Competition was suspended due to the COVID-19 pandemic</i>
 
 **Piala Asia**
 
