@@ -18,6 +18,19 @@ Dataset
 
 * 2017 GOJEK Traveloka Liga 1
   * Standings Table
+      * Final Table
+
+        <i>Note:
+
+        [*1] Arema Cronus changed name to Arema FC before the start of the season
+        
+        [*2] Pusamania Borneo changed name to Borneo FC before the start of the season
+        
+        [*3] Bhayangkara FC relocated from Sidoarjo to Bekasi
+        
+        [*4] PS.TNI, who represent the national army, relocated from Bandung to Pakansari (Bogor regency)</i>
+
+      * Haflway Table
   * Match Results
 * 2018 GOJEK Liga 1
   * Standings Table
