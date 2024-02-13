@@ -17,11 +17,13 @@ Dataset
 **Liga 1 Indonesia**
 
 * 2017 GOJEK Traveloka Liga 1
-  * Standings Table
-      * Final Table
+  * Tables
+      * <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Tables%20-%20GOJEK%20traveloka%20Liga%201.csv">Final Tables</a>
 
         <i>Note:
 
+        [C] Winner of the previous edition
+    
         [*1] Arema Cronus changed name to Arema FC before the start of the season
         
         [*2] Pusamania Borneo changed name to Borneo FC before the start of the season
@@ -30,23 +32,23 @@ Dataset
         
         [*4] PS.TNI, who represent the national army, relocated from Bandung to Pakansari (Bogor regency)</i>
 
-      * Haflway Table
+      * Haflway Tables
   * Match Results
 * 2018 GOJEK Liga 1
-  * Standings Table
+  * Tables
   * Match Results
 * 2019 Shopee Liga 1
-  * Standings Table
+  * Tables
   * Match Results
 * 2020 Shopee Liga 1
   
   <i>Note: 2019 Competition was suspended due to the COVID-19 pandemic</i>
   
 * 2021-2022 BRI Liga 1
-  * Standings Table
+  * Tables
   * Match Results
 * 2022-2023 BRI Liga 1
-  * Standings Table
+  * Tables
   * Match Results
 * 2023-2024 BRI Liga 1
 
