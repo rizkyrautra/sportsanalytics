@@ -18,7 +18,7 @@ Dataset
 
 * 2017 GOJEK Traveloka Liga 1
   * Tables
-      * <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Tables%20-%20GOJEK%20traveloka%20Liga%201.csv">Final Tables</a>
+      * <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Final%20Tables%20-%20GOJEK%20traveloka%20Liga%201.csv">Final Tables</a>
 
         <i>Note:
 
