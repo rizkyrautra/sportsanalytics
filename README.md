@@ -6,7 +6,7 @@ Dataset
 
 * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Pekan%20Olahraga%20Nasional%20-%20Daftar%20Juara%201948-2021.csv">List of PON Champions 1948-2021</a>
 
-  <i>Note: PON Edisi VI pada 1965 gagal karena terjadi peristiwa gerakan 30 September 1965</i>
+  <i>Note: PON Edition VI in 1965 failed due to the events of the 30 September 1965 movement</i>
 
 **Olimpiade**
 
@@ -81,20 +81,20 @@ Dataset
 **Liga Persebaya**
 
 * Liga Persebaya 2022
-  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U13%202022%20-%20KLASEMEN.csv">Klasemen U13</a>
-  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U13%202022%20-%20PERTANDINGAN.csv">Pertandingan U13</a>
-  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U13%202022%20-%20TOP%20SKOR.csv">Top Skor U13</a>
-  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U15%202022%20-%20KLASEMEN.csv">Klasemen U15</a>
-  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U15%202022%20-%20PERTANDINGAN.csv">Pertandingan U15</a>
-  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U15%202022%20-%20TOP%20SKOR.csv">Top Skor U15</a>
-  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20KLASEMEN.csv">Klasemen U20</a>
-  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20PERTANDINGAN.csv">Pertandingan U20</a>
-  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20TOP%20SKOR.csv">Top Skor U20</a>
+  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U13%202022%20-%20KLASEMEN.csv">Tables U13</a>
+  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U13%202022%20-%20PERTANDINGAN.csv">Match Results U13</a>
+  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U13%202022%20-%20TOP%20SKOR.csv">Top Score U13</a>
+  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U15%202022%20-%20KLASEMEN.csv">Tables U15</a>
+  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U15%202022%20-%20PERTANDINGAN.csv">Match Results U15</a>
+  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U15%202022%20-%20TOP%20SKOR.csv">Top Score U15</a>
+  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20KLASEMEN.csv">Tables U20</a>
+  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20PERTANDINGAN.csv">Match Results U20</a>
+  * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20TOP%20SKOR.csv">Top Score U20</a>
 
 **Piala Afrika**
-* <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Piala%20Afrika%201962-2023%20-%20Pemain%20Bersaudara.csv">Daftar Pemain Bersaudara di Piala Afrika 1962-2023</a>
+* <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Piala%20Afrika%201962-2023%20-%20Pemain%20Bersaudara.csv">List of Brothers Players in the African Cup of Nations 1962-2023</a>
 
 **AFC Champions League**
-* <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/AFC%20Champions%20League%201967-2022%20-%20Daftar%20Juara%20dan%20Runner-up.csv">Daftar Juara AFC Champions League 1967-2022</a> 
+* <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/AFC%20Champions%20League%201967-2022%20-%20Daftar%20Juara%20dan%20Runner-up.csv">List of AFC Champions League Champions 1967-2022</a> 
 
   <i>Note: Asian Champion Club Tournament (1967-1971), Asian Club Championship (1985-2001/2002), Asian Champions League (2001/2002-sekarang)</i>
