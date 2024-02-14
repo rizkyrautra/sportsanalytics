@@ -8,7 +8,7 @@ Dataset
 
   <i>Note: PON Edition VI in 1965 failed due to the events of the 30 September 1965 movement</i>
 
-**Olimpiade**
+**Olimpycs**
 
 * <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Daftar%20Atlet%20Indonesia%20Peraih%20Medali%20Olimpiade%201988-2020.csv">List of Indonesian Athletes Who Won Olympic Medals 1988-2020</a>
 
@@ -65,9 +65,9 @@ Dataset
   * Match Results
 * 2023-2024 BRI Liga 1
 
-**Piala Asia**
+**Asian Cup**
 
-* Piala Asia 2023
+* Asian Cup 2023
   * Match Summary Data
     
     Group Stage
@@ -91,7 +91,7 @@ Dataset
   * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20PERTANDINGAN.csv">Match Results U20</a>
   * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Liga%20Persebaya%20U20%202022%20-%20TOP%20SKOR.csv">Top Score U20</a>
 
-**Piala Afrika**
+**African Cup**
 * <a href="https://github.com/rizkyrautra/footballanalytics/blob/main/Piala%20Afrika%201962-2023%20-%20Pemain%20Bersaudara.csv">List of Brothers Players in the African Cup of Nations 1962-2023</a>
 
 **AFC Champions League**
