@@ -19,33 +19,7 @@ Dataset
 * 2017 GOJEK Traveloka Liga 1
   * Tables
       * <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Final%20Tables%20-%20GOJEK%20traveloka%20Liga%201.csv">Final Tables</a>
-
-        <i>Note:
-
-        [C] Winner of the previous edition
-    
-        [*1] Arema Cronus changed name to Arema FC before the start of the season
-        
-        [*2] Pusamania Borneo changed name to Borneo FC before the start of the season
-        
-        [*3] Bhayangkara FC relocated from Sidoarjo to Bekasi
-        
-        [*4] PS.TNI, who represent the national army, relocated from Bandung to Pakansari (Bogor regency)</i>
-
       * <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Halfway%20Tables%20-%20GOJEK%20traveloka%20Liga%201.csv">Haflway Tables</a>
-
-        <i>Note:
-
-        [C] Winner of the previous edition
-    
-        [*1] Arema Cronus changed name to Arema FC before the start of the season
-        
-        [*2] Pusamania Borneo changed name to Borneo FC before the start of the season
-        
-        [*3] Bhayangkara FC relocated from Sidoarjo to Bekasi
-        
-        [*4] PS.TNI, who represent the national army, relocated from Bandung to Pakansari (Bogor regency)</i>
-
   * <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Match%20Results%20-%20GOJEK%20Traveloka%20Liga%201.csv">Match Results</a>
 * 2018 GOJEK Liga 1
   * Tables
