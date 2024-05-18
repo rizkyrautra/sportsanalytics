@@ -23,6 +23,8 @@ Dataset
   * <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Match%20Results%20-%20GOJEK%20Traveloka%20Liga%201.csv">Match Results</a>
 * 2018 GOJEK Liga 1
   * Tables
+      * Final Tables
+      * Halfway Tables
   * Match Results
 * 2019 Shopee Liga 1
   * Tables
