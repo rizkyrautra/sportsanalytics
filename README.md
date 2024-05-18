@@ -8,7 +8,7 @@ Dataset
 
   <i>Note: PON Edition VI in 1965 failed due to the events of the 30 September 1965 movement</i>
 
-**Olimpycs**
+**Olympics**
 
 * <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Daftar%20Atlet%20Indonesia%20Peraih%20Medali%20Olimpiade%201988-2020.csv">List of Indonesian Athletes Who Won Olympic Medals 1988-2020</a>
 
