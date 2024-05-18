@@ -24,7 +24,7 @@ Dataset
 * 2018 GOJEK Liga 1
   * Tables
       * <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Final%20Tables%20-%20GOJEK%20Liga%201.csv">Final Tables</a>
-      * <a href="">Halfway Tables</a>
+      * <a href="https://github.com/rizkyrautra/sportsanalytics/blob/main/Halfway%20Tables%20-%20GOJEK%20Liga%201.csv">Halfway Tables</a>
   * Match Results
 * 2019 Shopee Liga 1
   * Tables
